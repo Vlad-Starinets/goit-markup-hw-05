@@ -793,7 +793,7 @@ box-shadow var(--transition-duration) var(--transition-timing-function);
     letter-spacing: 0.03em;
     color: #FFFFFF;
     background: rgba(33, 150, 243, 0.9);
-    transform: translateY(calc(100% + 1px));
+    transform: translateY(calc(100% + 10px));
     padding: 63px 24px;
     transition: transform var(--transition-duration) var(--transition-timing-function);
 }
